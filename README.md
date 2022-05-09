@@ -1,9 +1,9 @@
 # Python
 
 ## Prep 
-Create a virtual environment in Anaconda (Prompt or terminal, depending on operating system), using conda create --name environment_name (to create an environment with a specific Python version, run conda create --name environment_name python=3.4). 
-You can see a list of all your environment with conda info --envs. 
-Activate your environment using conda activate environment_name. 
+Create a virtual environment in Anaconda (Prompt or terminal, depending on operating system), using `conda create --name environment_name` (to create an environment with a specific Python version, run `conda create --name environment_name python=3.4)`. 
+You can see a list of all your environment with `conda info --envs`. 
+Activate your environment using `conda activate environment_name`. 
 To install packages into your environment, run conda install numpy pandas matplotlib seaborn scikit-learn spyder notebook and any other packages you want to install. 
 You can also do this directly when creating the environment and specify version of packages you want to work with, e.g. conda create -n environment_name scipy=0.15.0 (-nis just the short version of --name). conda list -n environment_name gives you a list of all packages installed in the current environment. 
 You can deactivate your environment with conda deactivate. 
