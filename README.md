@@ -16,4 +16,4 @@ For more info on Anaconda see https://docs.conda.io/projects/conda/en/4.6.0/_dow
 
 
 
-To open a notebook, either launch Jupyter Notebook from your environment directly in Anaconda or navigate into your environment (conda activate environment_name) and run jupyter notebook in the Prompt/terminal.
+To open a notebook, either launch Jupyter Notebook from your environment directly in Anaconda or navigate into your environment (`conda activate environment_name`) and run `jupyter notebook` in the Prompt/terminal.
